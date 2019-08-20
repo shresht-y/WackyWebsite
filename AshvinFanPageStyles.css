@@ -1,0 +1,62 @@
+body{
+  background-image: url("Geometry.jpg");
+  
+}
+
+h1{
+  font-size: 100px;
+  color: #663300;
+  font-family: comic sans-serif;
+  text-align: center;
+  border: solid black 2px;
+  background-color: red;
+
+}
+
+p{
+  font-size: 75px;
+  color: #3C7EAB;
+  text-align: center;
+  border: solid black 2px;
+  background-color: blue;
+}
+
+p1{
+  font-size: 50px;
+  color: #940370;
+  text-align: center;
+  list-style-position: inside;
+  border: solid black 2px;
+  background-color: orange;
+
+}
+
+ul{
+  font-size: 50px;
+  color: #940370;
+  text-align: center;
+  list-style-position: inside;
+  border: solid black 2px;
+  background-color: green;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+
+video{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+video:hover{
+
+
+
+}
